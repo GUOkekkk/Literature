@@ -7,10 +7,6 @@ Type: Paper
 reviewer: Ke Guo
 tags: DL, pnp
 
-I first discovered my passion in computer graphics and image processing as a hobbyist 3D artist obsessed with 3D modeling, rendering, game modding, and later photography. From my own experience
-I learned the significance of advanced algorithms in freeing people’s creativity and reducing human
-labor in the digital world, which now motivates me to take the role of a researcher.
-
 ## [EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation]([https://arxiv.org/abs/2203.13254](https://arxiv.org/abs/2203.13254))
 
 ### Note:
